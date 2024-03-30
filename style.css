@@ -1,0 +1,27 @@
+h1{
+    text-align: center;color:orange
+}
+h2{
+    text-align: center;
+}
+img{
+    height: 220px;width:320px;
+}
+body{
+    background-color: peachpuff;
+}
+td{
+    border: 2px solid brown;
+}
+nav a{
+    text-decoration: none;
+}
+p{
+    color: darkslategray
+}
+footer{
+    background-color: indigo;
+}
+footer p{
+    color: white;
+}
